@@ -12,4 +12,3 @@ print('Is Orange In bag Set?:', 'Orange' in bag)
 box = {'Red', 'Purple', 'Yellow'}
 print('\nSet:', box, '\t\tLength', len(box))
 print('Common To Both Sets:', bag.intersection(box))
-print
