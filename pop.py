@@ -15,3 +15,4 @@ del basket[1]
 print('Item Removed:', basket)
 del basket[1:3]
 print('Slice Removed:', basket)
+
